@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "KWin/Script",
+    "KPlugin": {
+        "Name": "Switch Virtual Desktop only on Main Desktop",
+        "Description": "Switch Virtual Desktop only on Main Desktop",
+        "Icon": "preferences-system-windows",
+        "Authors": [{
+            "Email": "fanyx@posteo.net",
+            "Name": "Hendrik Boll"
+        }],
+        "Id": "virtual-desktop-only-on-main",
+        "License": "GPL-2.0-or-later",
+        "Version": "0.1.0",
+        "Website": ""
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js"
+}
